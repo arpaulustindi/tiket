@@ -16,7 +16,7 @@ Dalam root Projet, buatlah folder baru dengan nama **assets/images**
 
 ### 2.2 Download Gambar
 
-Download seluruh gambar yang ada di [https://drive.google.com/drive/folders/1JwPrwCXrMulQoND71kro-WQW_c1MIz5m?usp=sharing](https://) link ini,kemudian hasil gambar tersebut diisi ke dalam folder images di dalam folder assets yang dibuat
+Download seluruh gambar yang ada di https://drive.google.com/drive/folders/1JwPrwCXrMulQoND71kro-WQW_c1MIz5m?usp=sharing link ini,kemudian hasil gambar tersebut diisi ke dalam folder images di dalam folder assets yang dibuat
 
 ![](assets/20231207_131622_z1.png)
 
