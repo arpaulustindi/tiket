@@ -22,7 +22,7 @@ Download seluruh gambar yang ada di https://drive.google.com/drive/folders/1JwPr
 
 ### 2.3. Update pubspec.yaml Untuk menambahkan asset
 
-Dalam file pubspec.yaml carilah baris assets dan ubalah menjadi
+Dalam file pubspec.yaml carilah baris yang tertulis kata assets dan ubalah menjadi
 
 ![](assets/20231207_132259_z3.png)
 
